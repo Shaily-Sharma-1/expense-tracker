@@ -14,7 +14,7 @@ This is a simple **Expense Tracker App** built using **React Native**. It helps 
 
 ### Add Expense Form
 
-![Add Form](https://github.com/your-username/your-repo/blob/main/expense%20tracker%20app%20images/IMG-20250717-WA0011.jpg)
+![Add Form](https://github.com/Shaily-Sharma-1/expense-tracker/edit/main/expense%20tracker%20app%20images/IMG-20250717-WA0011.jpg)
 
 ### Expense List
 
