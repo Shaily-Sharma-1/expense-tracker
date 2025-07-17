@@ -18,11 +18,22 @@ This is a simple **Expense Tracker App** built using **React Native**. It allows
 
 ### 📋 Expense List
 
-![Expense List](https://github.com/Shaily-Sharma-1/expense-tracker/blob/main/expense%20tracker%20app%20images/expense-list.jpg?raw=true)
+![Expense List](https://github.com/Shaily-Sharma-1/expense-tracker/blob/main/expense%20tracker%20app%20images/IMG-20250717-WA0012.jpg)
 
 ### 📊 Spending Pie Chart
 
-![Pie Chart](https://github.com/Shaily-Sharma-1/expense-tracker/blob/main/expense%20tracker%20app%20images/pie-chart.jpg?raw=true)
+![Pie Chart](https://github.com/Shaily-Sharma-1/expense-tracker/blob/main/expense%20tracker%20app%20images/IMG-20250717-WA0013.jpg)
+
+
+### 📊 Spending Pie Chart
+
+![Pie Chart](https://github.com/Shaily-Sharma-1/expense-tracker/blob/main/expense%20tracker%20app%20images/IMG-20250717-WA0014.jpg)
+
+
+### 📊 Spending Pie Chart
+
+![Pie Chart](https://github.com/Shaily-Sharma-1/expense-tracker/blob/main/expense%20tracker%20app%20images/IMG-20250717-WA0015.jpg)
+
 
 > 🔁 Update image names if yours are different.
 
