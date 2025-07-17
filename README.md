@@ -1,31 +1,33 @@
 # 📱 Expense Tracker App
 
-This is a simple **Expense Tracker App** built using **React Native**. It helps users to add, view, categorize, and track their daily expenses with a clean UI and pie chart visualization.
+This is a simple **Expense Tracker App** built using **React Native**. It allows users to add, categorize, and track their daily expenses with a clean user interface and visual summaries.
 
 ## 🔧 Features
 
 - Add and delete expenses
-- Categorize expenses (e.g., Food, Travel, Bills)
-- View total amount spent
-- See pie chart of your spending
-- Data stored using AsyncStorage (persists across sessions)
+- Categorize expenses (Food, Travel, Shopping, etc.)
+- View total spent amount
+- Pie chart to visualize category-wise spending
+- Stores data using AsyncStorage
 
 ## 📸 App Screenshots
 
-### Add Expense Form
+### ➕ Add Expense
 
-![Add Form](https://github.com/Shaily-Sharma-1/expense-tracker/edit/main/expense%20tracker%20app%20images/IMG-20250717-WA0011.jpg)
+![Add Form](https://github.com/Shaily-Sharma-1/expense-tracker/blob/main/expense%20tracker%20app%20images/add-form.jpg?raw=true)
 
-### Expense List
+### 📋 Expense List
 
-![Expense List](https://github.com/your-username/your-repo/blob/main/expense%20tracker%20app%20images/expense-list.jpg?raw=true)
+![Expense List](https://github.com/Shaily-Sharma-1/expense-tracker/blob/main/expense%20tracker%20app%20images/expense-list.jpg?raw=true)
 
-### Pie Chart
+### 📊 Spending Pie Chart
 
-![Pie Chart](https://github.com/your-username/your-repo/blob/main/expense%20tracker%20app%20images/pie-chart.jpg?raw=true)
+![Pie Chart](https://github.com/Shaily-Sharma-1/expense-tracker/blob/main/expense%20tracker%20app%20images/pie-chart.jpg?raw=true)
+
+> 🔁 Update image names if yours are different.
 
 ## ▶️ Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Shaily-Sharma-1/expense-tracker.git
